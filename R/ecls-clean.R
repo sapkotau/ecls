@@ -3,7 +3,7 @@
 # Study. The output is saved to 'data-processed/ecls.csv'.
 
 # Begin by changing your working directory as necessary here
-setwd('~/dropbox/ecls')
+#setwd('~/dropbox/ecls')
 
 # Load required packages ('install.packages()' first if necessary)
 library(Hmisc)
